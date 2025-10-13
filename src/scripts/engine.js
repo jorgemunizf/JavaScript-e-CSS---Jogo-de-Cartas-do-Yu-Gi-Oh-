@@ -77,6 +77,12 @@ async function createCardImage(IdCard, fieldSide) {
   return cardImage;
 }
 
+async function drawSelectedCard(index){
+state.cardSprites.avatar.src = cardData[index].img;
+state.cardSprites.name.innerText = cardData[index].name;
+state.cardSprites.type.innerText = "Attibute : " + cardData[index].type;
+
+}
 
 async function drawCards(cardNumber, fieldSide) {
   for (let i = 0; i < cardNumber; i++) {
