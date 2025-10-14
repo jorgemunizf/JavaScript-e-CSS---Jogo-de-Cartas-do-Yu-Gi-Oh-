@@ -71,15 +71,18 @@ O jogo segue o estilo **Pedra, Papel e Tesoura**, onde cada carta tem um **atrib
 
 ### Tela de duelo
 
-![Duelo](./assets/screenshots/jogo-yu-gi-oh.png)
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d45f7b59-c1e2-4c52-9980-4eb9fa3a844e" />
+
 
 ### Vitória
 
-![Vitória](./assets/screenshots/jogo-yu-gi-oh2.png)
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/0c630e3f-835c-4425-a5c2-e085c204992a" />
+
 
 ### Seleção de cartas
 
-![Seleção](./assets/screenshots/jogo-yu-gi-oh3.png)
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/b07d8096-6475-466c-8591-e1f90ff9083f" />
+
 
 ---
 
